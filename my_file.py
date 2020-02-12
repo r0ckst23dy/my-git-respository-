@@ -1,4 +1,4 @@
 print "Hi Git"
 
 def hi there():
-    print('Hi There')
+    print('Updated Python code with merge conflict code')
